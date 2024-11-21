@@ -125,7 +125,7 @@ public class SudokuGame {
         if (valid) {
             JOptionPane.showMessageDialog(null, "All moves are correct!");
         } else {
-            JOptionPane.showMessageDialog(null, "There are incorrect moves!");
+            JOptionPane.showMessageDialog(null, "The moves have been checked!");
         }
     }
 
